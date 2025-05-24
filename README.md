@@ -1,3 +1,6 @@
+PAVITHRA S
+21222322072
+
 # Correlation and regression for data analysis
 # Aim : 
 
@@ -22,8 +25,7 @@ If y represents the dependent variable and x the independent variable, this rela
 # Program :
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
-
-
-# Result
-
 # Output 
+![441524028-7f4b9fd7-eddc-4441-bcc1-ffa2c09d0b61](https://github.com/user-attachments/assets/cd3b3135-b2fe-4ebe-ba0c-77fcc5b53d0c)
+# RESULT
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
